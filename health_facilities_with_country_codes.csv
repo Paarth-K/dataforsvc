@@ -1,0 +1,355 @@
+,lat,lon,tags_bed_count,tags_doctors_num,tags_nurses_num,tags_electricity,tags_operator,tags_water_source,tags_opening_hours,Country
+0,7.5755633,-8.5391235,60,2,6,generator,private_np,piped,24/7,LR
+1,8.3317622,-10.0669098,,0,,,private_np,,,GN
+2,7.2214808,-11.1724091,4,0,1,solar,government,pub_tap,Mo-Fr 08:00-17:00,SL
+3,7.0820692,-11.2124062,7,0,2,generator,government,pub_tap,Mo-Fr 08:00-17:00,SL
+4,8.1550488,-9.6497319,1,,3,solar,,protected_well,Mo-Fr 08:00-17:00,LR
+5,7.2637625,-9.4367757,9,,6,generator,government,piped,Mo-Fr 08:00-17:00,LR
+6,7.1974679,-9.2096329,3,,2,solar,government,piped,24/7,LR
+7,7.0109419,-11.3729096,6,0,2,solar,,pub_tap,Mo-Fr 08:00-17:00,LR
+8,8.2284376,-10.1625681,4,0,2,generator,combination,pub_tap,24/7,SL
+9,7.2344234,-9.6157837,2,,1,none,government,piped,24/7,LR
+10,7.903511,-9.4585419,4,1,6,,government,,,GN
+11,7.1692863,-9.142642,2,,2,none,government,piped,Mo-Fr 08:00-17:00,LR
+12,7.1727725,-9.140625,2,,2,none,government,piped,Mo-Fr 08:00-17:00,LR
+13,7.1371747,-11.2817574,14,0,11,solar,government,pub_tap,24/7,SL
+14,7.3788102,-9.4935608,5,0,9,solar,government,protected_well,Mo-Fr 08:00-17:00,GN
+15,7.0762772,-11.2691402,6,0,2,solar,government,pub_tap,Mo-Fr 08:00-17:00,SL
+16,6.8774638,-11.3492632,6,0,2,solar,government,hand_pump,Mo-Fr 08:00-17:00,LR
+17,7.2637132,-11.1009979,1,0,2,generator,private_profit,pub_tap,24/7,SL
+18,7.5047696,-9.5539856,5,0,7,solar,ngo,tubewell,"Mo-Fr 08:00-17:00, Sa, Su",GN
+19,7.0157124,-11.261673,2,,2,solar,government,pub_tap,Mo-Fr 08:00-16:00,LR
+20,7.0157124,-11.2623596,2,,2,solar,government,tubewell,,LR
+21,8.221525,-10.1734579,4,0,0,solar,combination,pub_tap,"Mo-Fr 08:00-17:00, Sa, Su",SL
+22,8.4207533,-9.7483063,4,0,9,solar,government,piped,Mo-Fr 08:00-17:00,LR
+23,7.9164332,-9.5223999,,,0,none,private_np,protected_well,"""by appointment""",GN
+24,8.2760476,-10.2790833,7,,0,solar,combination,pub_tap,24/7,SL
+25,7.3572853,-8.7143909,150,3,32,generator,government,piped,24/7,LR
+26,7.2334934,-9.1661261,4,1,2,generator,government,piped,24/7,GN
+27,7.3097474,-9.5113136,5,,3,generator,government,piped,Mo-Fr 08:00-17:00,LR
+28,7.3113901,-9.5117569,2,,5,solar,government,piped,Mo-Fr 08:00-17:00,LR
+29,8.4058096,-9.6617889,0,0,0,none,private_np,surface_water,"""by appointment""",LR
+30,7.0586452,-11.3557434,6,,2,solar,government,tubewell,Mo-Fr 08:00-16:00,SL
+31,7.0382015,-11.2568665,5,0,2,solar,government,pump_water,Mo-Fr 08:00-16:00,SL
+32,7.0327497,-11.3220978,1,,,flash_light,private_profit,protected_well,Mo-Fr 08:00-17:00,SL
+33,7.0763624,-11.2690544,5,0,2,solar,government,pub_tap,"Mo-Fr 08:00-16:00, Sa, Su",SL
+34,7.3781486,-9.218587,8,,10,generator,government,protected_well,Mo-Fr 08:00-17:00,GN
+35,7.3965148,-9.4908142,8,0,7,solar,government,protected_well,"Mo-Fr 08:00-17:00, Sa, Su",GN
+36,7.8320919,-9.5546722,2,0,0,none,community_facility,hand_pump,"""by appointment""",GN
+37,7.4230703,-9.4928741,8,0,7,solar,government,protected_well,Mo-Fr 08:00-17:00,GN
+38,7.3079848,-11.1003113,0,0,0,flash_light,private_profit,unprotected_well,24/7,SL
+39,8.3962997,-9.7874451,0,0,0,,,,,LR
+40,8.1363656,-10.2961421,8,0,2,generator,ngo,pub_tap,"Mo-Fr 08:00-17:00, Sa, Su",SL
+41,6.975502,-11.370163,3,3,0,none,,,24/7,LR
+42,8.164085,-10.2175856,2,0,6,solar,ngo,pub_tap,Mo-Fr 08:00-17:00,SL
+43,7.9066938,-9.4589763,0,0,0,flash_light,private_np,pump_water,"""by appointment""",GN
+44,8.3154563,-10.1506805,3,0,2,solar,government,piped,Mo-Fr 08:00-17:00,SL
+45,7.7157547,-9.3857574,5,,5,solar,ngo,rain,,GN
+46,7.7164351,-9.3843842,5,,5,solar,ngo,surface_water,Mo-Fr 08:00-17:00,GN
+47,7.56195,-10.7858276,1,0,1,chanies_light,private_profit,hand_pump,24/7,SL
+48,7.8436559,-9.4585419,0,0,0,none,private_np,unprotected_spring,"""by appointment""",GN
+49,7.6443036,-10.5688477,6,,3,solar,government,,Mo-Fr,SL
+50,8.1537196,-10.329895,8,0,8,solar,ngo,unprotected_spring,"Mo-Fr 08:00-17:00, Sa, Su",SL
+51,7.9096321,-9.5175934,0,0,0,flash_light,private_np,unprotected_spring,"""by appointment""",GN
+52,8.4207957,-9.747566,3,0,1,solar,ngo,piped,Mo-Fr 08:00-17:00,LR
+53,7.6067255,-8.6200271,8,,2,none,ngo,protected_spring,Mo-Fr 08:00-17:00,LR
+54,8.4193948,-9.7503662,5,2,3,solar,government,piped,Mo-Fr 08:00-17:00,LR
+55,7.2160312,-11.1064911,1,0,0,oil_lamp,private_profit,surface_water,24/7,SL
+56,7.0000376,-11.294632,4,,2,solar,government,tubewell,Mo-Fr 08:00-16:00,LR
+57,8.2209622,-10.1541567,5,0,2,solar,government,pub_tap,24/7,SL
+58,6.9877699,-11.292572,1,,,flash_light,private_profit,tubewell,24/7,LR
+59,7.9130326,-9.5175934,0,0,0,chanies_light,private_np,pump_water,"""by appointment""",GN
+60,7.2575829,-9.3521118,1,,9,solar,,protected_spring,Mo-Fr 08:00-17:00,LR
+61,7.5435714,-8.5645294,3,,2,none,private_np,protected_spring,"Mo-Fr 08:00-17:00, Sa, Su",LR
+62,8.1757457,-10.232091,3,0,2,none,combination,pub_tap,Mo-Fr 08:00-17:00,SL
+63,7.3079848,-11.1009979,1,,,lamp,private_profit,tubewell,24/7,SL
+64,7.6191281,-9.4916993,8,0,11,solar,government,protected_well,Mo-Fr 08:00-17:00,GN
+65,7.1972976,-9.1085243,,1,,none,private_profit,piped,24/7,GN
+66,8.4617285,-9.6733654,1,0,2,solar,government,protected_well,Mo-Fr 08:00-17:00,LR
+67,7.3712253,-9.3353169,,,7,generator,government,piped,Mo-Fr 08:00-17:00,GN
+68,7.3643888,-8.7049188,0,0,20,generator,,piped,Mo-Fr 08:00-17:00,LR
+69,6.9680899,-11.3099635,2,0,3,solar,government,pub_tap,,LR
+70,7.3617859,-9.4997406,5,0,0,none,government,protected_well,"Mo-Fr 08:00-17:00, Sa, Su",GN
+71,6.9682603,-11.309824,5,0,2,solar,government,pub_tap,Mo-Fr 08:00-17:00,LR
+72,7.8803862,-9.5100403,0,0,0,none,private_profit,pump_water,"""by appointment""",GN
+73,7.0736367,-8.9923096,7,,1,none,government,unprotected_well,"Mo-Fr 08:00-17:00, Sa, Su",LR
+74,8.0623527,-10.4996038,18,0,8,generator,ngo,pub_tap,"Mo-Fr 08:00-17:00, Sa, Su",SL
+75,7.883787,-9.4290161,0,0,0,none,private_np,hand_pump,"""by appointment""",GN
+76,8.3616546,-10.2832031,3,0,2,solar,government,protected_well,24/7,SL
+77,8.4419438,-9.9601056,7,0,2,solar,government,protected_well,Mo-Fr 08:00-17:00,LR
+78,7.2300437,-8.9473396,1,1,,none,private_np,,"""by appointment""",LR
+79,7.9137127,-9.5093536,1,0,0,none,private_profit,pump_water,"""by appointment""",GN
+80,7.6550354,-9.4226271,10,1,9,solar,ngo,,,GN
+81,7.6551045,-9.4229811,5,1,9,solar,ngo,protected_well,Mo-Fr 08:00-17:00,GN
+82,7.8246092,-9.3981171,3,0,2,none,government,pump_water,Mo-Fr,GN
+83,8.2339167,-10.2246666,2,0,1,solar,combination,pub_tap,24/7,SL
+84,7.5748826,-8.5439301,3,,2,solar,,pub_tap,"Mo-Fr 08:00-17:00, Sa, Su",LR
+85,6.9216554,-11.3880157,2,0,2,solar,government,pub_tap,24/7,LR
+86,6.9727597,-11.4131534,2,0,1,none,private_profit,unprotected_spring,,LR
+87,7.0232089,-11.2884522,1,,,none,private_np,pub_tap,24/7,LR
+88,7.2378293,-11.131897,,,,lamp,,tubewell,,SL
+89,7.3393128,-9.4997406,4,0,1,generator,private_profit,unprotected_spring,"Mo-Fr 08:00-17:00, Sa, Su",GN
+90,7.4977704,-9.621824,5,0,7,solar,,protected_well,"Mo-Fr 08:00-17:00, Sa, Su",GN
+91,7.5204269,-9.4798279,7,0,3,solar,,protected_well,"Mo-Fr 08:00-17:00, Sa, Su",GN
+92,7.5442521,-9.5278931,5,0,7,solar,government,protected_well,"Mo-Fr 08:00-17:00, Sa, Su",GN
+93,7.5456135,-8.5597229,8,,2,solar,private_profit,protected_spring,"Mo-Fr 08:00-17:00, Sa, Su",LR
+94,7.6150393,-9.4935608,5,0,9,solar,government,protected_well,Mo-Fr 08:00-17:00,GN
+95,7.8763052,-9.4866943,0,0,0,flash_light,private_np,pump_water,,GN
+96,8.058401,-10.4943466,17,,,solar,,pub_tap,"Mo-Fr 08:00-17:00, Sa, Su",SL
+97,8.3895068,-10.0662231,2,,2,solar,government,piped,Mo-Fr 08:00-17:00,GN
+98,10.0471423,-11.7000665,4,1,1,none,government,tubewell,06:00-18:00,SL
+99,8.5151676,-9.8573048,3,0,2,none,government,tubewell,08:00-14:00,LR
+100,7.0227298,-11.3862562,2,076455743,9,solar,government,piped,24/7,SL
+101,7.170213,-11.4859326,2,0,1,none,government,protected_well,Mo-Fr 08:00-17:00,SL
+102,6.9927963,-11.4701986,3,0,1,generator,government,,Mo-Fr 08:00-17:00,SL
+103,7.0878777,-11.4048937,6,2,2,solar,government,tanker_truck,Mo-Fr 08:00-17:00,SL
+104,6.9678343,-11.5771008,3,0,2,none,government,protected_well,08:00-17:00,SL
+105,7.0705277,-11.408143,3,0,1,none,government,protected_well,08:00-17:00,SL
+106,7.0474013,-11.4541912,4,0,2,none,,protected_well,Mo-Fr 08:00-17:00,SL
+107,7.0244015,-11.3912773,4,0,3,solar,combination,protected_well,24/7,SL
+108,7.1758736,-11.4710257,2,1,1,none,government,unprotected_well,Mo-Fr 08:00-17:00,SL
+109,7.2428099,-11.3601496,4,,4,solar,Ministry of Health and Sanitation,protected_well,Mo-Sa,SL
+110,7.2408248,-11.362917,3,,1,none,government,pub_tap,Mo-Fr 08:00-17:00,SL
+111,7.2875785,-11.4373499,1,0,3,none,government,pub_tap,Mo-Fr 08:00-17:00,SL
+112,7.2975345,-11.3451004,1,,2,solar,Ministry of Health and Sanitation,protected_well,Mo-Sa,SL
+113,7.2699072,-11.3230097,7,,3,solar,Ministry of Health and Sanitation,protected_well,Mo-Sa,SL
+114,7.8769385,-10.7869388,3,,6,solar,government,pub_tap,24/7,SL
+115,7.777917,-10.8131154,4,1,6,none,Ministry of Health and Sanitation,piped,,SL
+116,7.8102343,-10.8147164,1,0,2,generator,government,protected_well,24/7,SL
+117,7.9380076,-10.6281493,4,1,1,generator,government,rain,08:00-17:00,SL
+118,7.7936834,-10.7759363,4,0,1,none,government,pub_tap,24/7,SL
+119,7.9281222,-10.6741834,6,076419722,3,solar,government,rain,08:00-17:00,SL
+120,7.9870385,-10.751319,9,,6,generator,government,tubewell,Mo-Fr 08:00-17:00,SL
+121,8.083518,-10.6890387,8,,4,solar,Ministry of Health and Sanitation,piped,24/7,SL
+122,8.0368762,-10.7262489,6,0,2,solar,government,pub_tap,08:00-17:00,SL
+123,8.0842955,-10.6903362,15,0,3,solar,ngo,piped,24/7,SL
+124,7.9956633,-10.6476766,8,1,3,solar,government,pub_tap,08:00-17:00,SL
+125,8.1202322,-10.5656826,4,0,2,none,government,pub_tap,24/7,SL
+126,7.9923366,-10.7529582,8,1,2,generator,government,piped,24/7,SL
+127,8.38466,-10.4095071,4,,4,none,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+128,8.2755351,-10.5739394,0,0,7,generator,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+129,8.279273,-10.573907,0,0,0,none,,pub_tap,24/7,SL
+130,8.2795449,-10.5739447,00,00,00,generator,,pub_tap,24/7,SL
+131,8.2106812,-10.3166533,5,,2,none,government,protected_well,Mo-Fr 08:00-17:00,SL
+132,8.3344641,-10.4926619,4,0,2,none,Ministry of Health and Sanitation,pub_tap,Mo-Fr 08:00-17:00,SL
+133,8.2754704,-10.5736874,,1,0,generator,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+134,8.2797464,-10.5722763,00,00,01,generator,,pub_tap,24/7,SL
+135,8.4615605,-10.3392235,15,,5,none,Ministry of Health and Sanitation,piped,24/7,SL
+136,8.278029,-10.5702622,0,0,0,generator,,pub_tap,Mo-Fr 08:00-17:00,SL
+137,8.3845849,-10.4135486,00,0,0,generator,,piped,24/7,SL
+138,8.4617322,-10.3391157,15,2,2,solar,government,protected_well,,SL
+139,8.2756336,-10.37229,10,0,7,solar,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+140,8.2040464,-10.4835534,3,0,2,none,government,protected_well,24/7,SL
+141,8.2010932,-10.6475803,3,,2,solar,Ministry of Health and Sanitation,piped,Mo-Fr 08:00-17:00,SL
+142,8.2554499,-10.4878986,8,,1,generator,Ministry of Health and Sanitation,cart,08:00-17:00,SL
+143,8.2522752,-10.4183114,10,0,1,none,District Health Management Team,,24/7,SL
+144,8.1764147,-10.5636871,4,,,none,District Health Management Team,pub_tap,08:00-17:00,SL
+145,8.2040464,-10.4836392,4,,2,none,Ministry of Health and Sanitation,pub_tap,Mo-Sa 08:00-17:00,SL
+146,8.2781498,-10.5716693,00,00,00,generator,,pub_tap,Mo-Fr,SL
+147,8.2209516,-10.5856276,2,,1,none,Ministry of Health and Sanitation,pub_tap,08:00-17:00,SL
+148,8.2467645,-10.5164373,1,,1,none,Ministry of Health and Sanitation,pub_tap,08:00-17:00,SL
+149,8.4729772,-10.3857386,3,1,1,solar,combination,unprotected_well,Mo-Fr 08:00-17:00,SL
+150,8.2779481,-10.5694807,0,0,0,generator,private,pub_tap,Mo-Fr 08:00-17:00,SL
+151,8.1998838,-10.4363573,6,0,2,none,Ministry of Health and Sanitation,pub_tap,,SL
+152,8.4613476,-10.3257987,8,,1,none,government,protected_well,08:00-17:00,SL
+153,8.4617322,-10.3390797,4,,1,solar,government,protected_well,08:00-17:00,SL
+154,8.2135291,-10.3175783,6,0,01,none,combination,pub_tap,24/7,SL
+155,8.2956994,-10.4654431,12,,1,generator,Ministry of Health and Sanitation,pub_tap,08:00-17:00,SL
+156,8.4613571,-10.3257966,17,088796717,3,generator,private,protected_well,08:00-17:00,SL
+157,8.1987396,-10.6939587,3,0,2,none,Ministry of Health and Sanitation,,08:00-17:00,SL
+158,8.2369322,-10.717485,9,0,2,none,Ministry of Health and Sanitation,protected_spring,Mo-Fr 08:00-17:00,SL
+159,8.3204989,-10.5990386,2,,1,solar,Ministry of Health and Sanitation,pub_tap,08:00-17:00,SL
+160,8.1696924,-10.7515597,3,2,3,none,Ministry of Health and Sanitation,protected_spring,Mo-Fr 08:00-17:00,SL
+161,8.1709681,-10.7515772,3,1,2,generator,government,pub_tap,24/7,SL
+162,8.274041,-10.6556332,,,,none,,pub_tap,,SL
+163,8.1572668,-10.7117558,3,,1,solar,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+164,9.9115003,-11.4433456,5,0,1,none,government,,24/7,SL
+165,8.8446089,-10.7756138,5,0,10,none,government,pub_tap,24/7,SL
+166,9.0168841,-10.5969014,2,0,1,none,Ministry of Health and Sanitation,piped,08:00-17:00,SL
+167,9.0860469,-12.9739952,3,0,1,solar,government,protected_well,24/7,SL
+168,9.5453772,-12.6276469,3,0,2,none,Ministry of Health and Sanitation,unprotected_spring,24/7,SL
+169,8.7976534,-10.5672754,,,,,Ministry of Health and Sanitation,,,SL
+170,9.3673576,-10.7399718,0,0,2,none,Ministry of Health and Sanitation,protected_well,24/7,SL
+171,8.6482322,-10.5152893,3,0,1,none,combination,unprotected_spring,24/7,SL
+172,9.367127,-10.7398438,3,0,4,none,government,pub_tap,24/7,SL
+173,8.680495,-10.5526485,3,1,1,none,government,protected_spring,24/7,SL
+174,8.8979885,-10.6807086,1,0,2,solar,combination,surface_water,24/7,SL
+175,9.6729156,-12.2258155,7,1,2,solar,government,pub_tap,24/7,SL
+176,9.107619,-12.9135403,3,0,2,none,Ministry of Health and Sanitation,unprotected_spring,24/7,SL
+177,9.1748789,-12.9516792,4,0,4,generator,Ministry of Health and Sanitation,protected_well,24/7,SL
+178,8.5267376,-10.7097588,7,0,2,none,Ministry of Health and Sanitation,piped,24/7,SL
+179,9.8012147,-11.6579781,3,0,1,generator,Ministry of Health and Sanitation,,24/7,SL
+180,9.0585486,-13.2183072,3,0,2,solar,government,unprotected_well,08:00-17:00,SL
+181,8.4248712,-10.7859135,2,0,2,none,government,protected_spring,Mo-Fr 08:00-17:00,SL
+182,9.2251218,-12.8348958,4,0,2,none,Ministry of Health and Sanitation,protected_well,24/7,SL
+183,9.711456,-11.8183439,2,0,2,solar,government,pub_tap,24/7,SL
+184,9.005144,-13.0750513,4,0,2,none,,protected_spring,08:00-17:00,SL
+185,8.9598849,-10.6538759,1,0,1,solar,Ministry of Health and Sanitation,protected_well,08:00-17:00,SL
+186,8.6896391,-10.5097961,2,0,1,solar,government,protected_well,Mo-Fr 08:00-17:00,SL
+187,8.3121335,-10.8202136,2,1,1,solar,government,,Mo-Fr 08:00-17:00,SL
+188,8.414969,-10.7210577,6,0,2,none,,protected_well,Mo-Fr 08:00-17:00,SL
+189,8.4030395,-10.8409846,4,0,3,none,government,protected_well,Mo-Fr 08:00-17:00,SL
+190,8.3921805,-10.7074524,4,1,1,none,District Health Management Team,protected_well,08:00-17:00,SL
+191,9.4581951,-12.6394272,4,0,2,none,Ministry of Health and Sanitation,pub_tap,24/7,SL
+192,9.2779834,-12.9407358,3,0,1,solar,government,protected_well,24/7,SL
+193,8.5015711,-10.6802834,4,,1,solar,Ministry of Health and Sanitation,pub_tap,24/7,SL
+194,8.7653963,-10.6309885,3,0,2,none,government,unprotected_well,Mo-Fr 08:00-17:00,SL
+195,9.0751876,-13.0353856,4,0,3,solar,,protected_well,24/7,SL
+196,8.854661,-10.7665845,20,,7,solar,Ministry of Health and Sanitation,pub_tap,24/7,SL
+197,9.9111928,-11.44328,6,0,2,none,,protected_well,24/7,SL
+198,8.2414131,-10.7909882,3,0,2,none,Ministry of Health and Sanitation,pub_tap,Mo-Fr 08:00-17:00,SL
+199,9.3484602,-12.7378859,3,,2,generator,Ministry of Health and Sanitation,protected_spring,24/7,SL
+200,7.5239157,-11.0996461,2,0,2,solar,Ministry of Health and Sanitation,tubewell,,SL
+201,9.9736902,-11.4871287,4,,2,none,government,protected_well,24/7,SL
+202,7.5246338,-10.9968122,1,,2,solar,Ministry of Health and Sanitation,protected_well,Mo-Sa,SL
+203,9.2170097,-12.9192889,6,0,4,none,Ministry of Health and Sanitation,protected_well,24/7,SL
+204,8.3577059,-10.8383667,0,0,2,solar,government,protected_spring,Mo-Fr 08:00-17:00,SL
+205,9.4622166,-10.9204316,4,0,1,solar,Ministry of Health and Sanitation,unprotected_spring,24/7,SL
+206,9.1141132,-12.9235908,2,0,8,none,Ministry of Health and Sanitation,piped,24/7,SL
+207,8.7276479,-10.5056763,1,0,1,solar,government,protected_well,24/7,SL
+208,9.3448938,-10.8698753,2,0,1,solar,Ministry of Health and Sanitation,Hand pump in the Community.,,SL
+209,8.4234351,-10.6562419,3,1,1,none,government,,08:00-17:00,SL
+210,8.4357015,-10.8663884,18,1,13,solar,government,,24/7,SL
+211,9.8582686,-11.5726167,02,0,01,none,Ministry of Health and Sanitation,,24/7,SL
+212,9.1038129,-12.9499197,1,0,2,solar,government,protected_well,24/7,SL
+213,8.6171422,-10.7208967,4,1,4,solar,government,piped,Mo-Fr,SL
+214,9.103421,-12.9107165,2,1,2,solar,Ministry of Health and Sanitation,protected_well,24/7,SL
+215,9.3081699,-12.77946,4,0,1,none,Ministry of Health and Sanitation,pub_tap,24/7,SL
+216,8.3099996,-10.8484411,4,0,3,none,Ministry of Health and Sanitation,protected_spring,Mo-Fr 08:00-17:00,SL
+217,9.8012703,-11.6576099,4,0,2,none,Ministry of Health and Sanitation,public hand pump,24/7,SL
+218,9.3449915,-10.8699203,2,0,2,none,Ministry of Health and Sanitation,piped,24/7,SL
+219,8.642759,-10.6690657,2,0,2,solar,government,unprotected_spring,24/7,SL
+220,9.3885538,-12.6701983,5,0,3,none,Ministry of Health and Sanitation,pub_tap,24/7,SL
+221,9.8370565,-12.3785885,8,,2,generator,government,protected_well,24/7,SL
+222,7.5244794,-10.9970677,0,0,4,solar,Ministry of Health and Sanitation,tubewell,08:00-17:00,SL
+223,9.1083682,-12.9140854,2,1,2,solar,Ministry of Health and Sanitation,rain,24/7,SL
+224,9.0108546,-13.1714057,3,0,1,solar,government,protected_well,08:00-17:00,SL
+225,9.3240348,-10.9445867,01,0,1,none,Ministry of Health and Sanitation,protected Hand pump from the community.,24/7,SL
+226,9.4654625,-10.9226509,2,,2,none,government,pub_tap,24/7,SL
+227,8.5991705,-10.5844432,4,,2,solar,government,protected_well,24/7,SL
+228,8.6137487,-10.581772,4,0,2,solar,government,pub_tap,24/7,SL
+229,8.21629,-10.8408237,2,0,2,none,,unprotected_well,Mo-Fr 08:00-17:00,SL
+230,9.5322045,-10.9602678,,,,generator,,pub_tap,,SL
+231,9.0122945,-13.1095441,3,0,3,solar,government,piped,08:00-17:00,SL
+232,9.9434363,-11.6445529,1,0,2,none,Ministry of Health and Sanitation,pub_tap,24/7,SL
+233,8.9591006,-10.6544955,3,0,1,solar,Ministry of Health and Sanitation,,08:00-17:00,SL
+234,9.4653785,-10.9215862,3,0,2,none,Ministry of Health and Sanitation,protected_well,24/7,SL
+235,8.4403943,-10.8587482,8,0,2,none,government,pub_tap,Mo-Fr 08:00-17:00,SL
+236,9.0130715,-10.7280708,0,0,1,none,Ministry of Health and Sanitation,surface_water,08:00-17:00,SL
+237,8.9633343,-13.0075735,5,0,1,none,government,pub_tap,08:00-17:00,SL
+238,8.9400455,-10.7374573,1,0,1,none,Ministry of Health and Sanitation,surface_water,08:00-17:00,SL
+239,9.102743,-12.910223,2,0,2,solar,Ministry of Health and Sanitation,protected_well,24/7,SL
+240,8.2551314,-10.8137548,3,0,2,none,Ministry of Health and Sanitation,protected_well,08:00-17:00,SL
+241,9.0490921,-13.2708913,7,0,3,solar,government,piped,08:00-17:00,SL
+242,8.9366751,-13.1434073,4,0,4,solar,government,pub_tap,08:00-17:00,SL
+243,9.1278174,-12.9103947,5,0,7,solar,Ministry of Health and Sanitation,piped,24/7,SL
+244,7.7156165,-9.3871737,,,,,,,Mo-Fr 08:00-17:00,GN
+245,7.6160602,-9.4927132,,,,,,,24/7,GN
+246,7.7779987,-9.429574,,,,,,,Mo-Fr 08:00-17:00,GN
+247,9.4318958,-13.0747521,12,6,2,,government,,24/7,GN
+248,9.4299678,-13.0796649,14,,0,,private_profit,,,GN
+249,9.4311558,-13.0902891,250,,,,government,,08:00-18:00,GN
+250,9.4233091,-13.0759594,05,04,,,government,,,GN
+251,9.4538216,-13.182545,1,1,2,,government,,,GN
+252,9.4300538,-13.0797064,14,1,2,,private_profit,,,GN
+253,9.4343431,-13.0756481,,,,,government,,,GN
+254,9.344437,-13.132904,2,1,1,,government,,,GN
+255,9.431341,-13.0901174,140,10,4,,government,,,GN
+256,9.4315408,-13.0906016,,4,10,,government,,,GN
+257,9.3660843,-12.7617815,3,,1,,government,,,SL
+258,9.3397765,-12.8583152,4,,,,,,,SL
+259,9.5390723,-12.6638788,4,02,,,government,,08:00-18:00,SL
+260,9.6634525,-12.8290505,5,1,2,,government,,,SL
+261,9.5698691,-12.6844847,02,01,01,,government,,08:00-18:00,SL
+262,9.6622577,-12.8266313,03,0,01,,government,,07:00-18:00,SL
+263,9.6120688,-12.8091265,7,3,3,,government,,07:00-17:00,SL
+264,9.7194259,-12.7952394,5,,2,,government,,07:00-19:00,GN
+265,9.713582,-12.6497013,3,,2,,government,,07:00-19:00,SL
+266,9.8755176,-12.5553963,3,1,1,,government,,08:00-18:00,GN
+267,10.0510778,-12.3043176,3,,2,,government,,06:00-23:00,GN
+268,9.976084,-12.3392431,02,,01,,,,07:00-23:00,SL
+269,9.8818241,-12.4473865,8,,5,,government,,08:00-18:00,SL
+270,10.1539196,-12.5357925,07,,02,,government,,07:00-18:00,GN
+271,10.3902814,-12.079137,7,0,0,,ngo,,,GN
+272,10.3993282,-12.0818164,7,2,3,,,,,GN
+273,10.4030026,-12.1469522,2,,1,,government,,8:00-16:30,GN
+274,10.2899631,-11.9804599,4,,,,government,,,GN
+275,10.3781822,-12.0814204,10,0,0,,ngo,,,GN
+276,9.8882766,-11.0637279,2,1,3,,,,,SL
+277,10.0466128,-10.7597916,6,2,3,,ngo,,,GN
+278,10.0713649,-11.1195728,0,,7,,government,,08:00-16:00,SL
+279,9.7268493,-10.8764756,4,,3,,government,,08:00-16:00,SL
+280,9.2127709,-10.5451208,1,,1,,combination,,08:00-16:30,SL
+281,9.1800135,-10.092135,10,1,2,,private_profit,,,GN
+282,9.1634973,-10.0917652,5,1,2,,,,8:00-18:00,GN
+283,8.9484465,-10.465993,2,9,1,,Plan Guinée (Institution),,,SL
+284,8.7492595,-10.4788649,3,,1,,government,,,SL
+285,8.9002472,-10.4722541,0,,1,,private_profit,,07:00-22:00,SL
+286,8.5278475,-10.232675,2,1,4,,government,,08:00-17:00,GN
+287,8.613067,-10.2624852,3,,2,,government,,08:00-16:00,GN
+288,8.6029946,-10.1258471,5,4,1,,government,,8:00-17:00,GN
+289,8.6540049,-10.1060244,12,,,,government,,07:00-18:00,GN
+290,8.6222127,-10.0647184,4,1,2,,private_profit,,,GN
+291,8.4823771,-10.4102318,4,,,,government,,8:00-17:00,SL
+292,8.6409708,-10.4157151,7,,7,,government,,,GN
+293,8.6410357,-10.4154951,6,,8,,government,,,GN
+294,8.5048354,-10.3344814,6,,10,,government,,8:00-15:00,GN
+295,8.3389065,-10.5428772,5,,3,,government,,8:00-16:30,SL
+296,8.5549832,-10.4539813,2,2,3,,,,,SL
+297,8.4956524,-10.5935226,5,,8,,government,,,SL
+298,8.4900038,-10.5925332,5,,8,,government,,08:00-16:00,SL
+299,8.6387549,-10.4115951,2,1,2,,government,,,GN
+300,8.5404309,-10.5109663,4,,2,,government,,,SL
+301,8.924849,-9.5812637,2,,1,,government,,8:00-16:00,GN
+302,8.6213588,-9.8573971,4,,1,,government,,08:00-16:00,LR
+303,8.5659406,-9.8744962,4,0,2,,government,,07:00-18:00,LR
+304,8.5597445,-10.1305296,2,2,3,,government,,8:00-17:00,GN
+305,8.5610435,-10.1370395,12,4,8,,government,,,GN
+306,8.5550153,-10.1221718,5,4,2,,,,7:00-16:00,GN
+307,8.5590146,-10.1350808,,,,,,,24/7,GN
+308,8.5593032,-10.1353502,,2,3,,government,,8:00-16:30,GN
+309,8.5575126,-10.1342566,6,,4,,government,,,GN
+310,8.5669551,-10.133155,2,,2,,government,,7:00-18:00,GN
+311,8.5585725,-10.1397157,4,,,,government,,07:00-19:00,GN
+312,8.4581768,-9.5848952,5,2,2,,government,,,GN
+313,8.6593841,-9.691205,10,,1,,government,,8:00-16:30,LR
+314,8.5984523,-9.650462,1,,2,,government,,08:00-18:00,GN
+315,8.480599,-9.54956,6,,1,,government,,8:00-16:30,GN
+316,8.5381807,-9.6033061,3,,1,,government,,8:00-19:00,GN
+317,8.4573325,-9.5853406,5,,2,,,,08:00-18:00,GN
+318,8.5480499,-9.4666333,13,25,07,,government,,,GN
+319,8.5524429,-9.471568,18,,7,,government,,8:30-16:00,GN
+320,8.5425639,-9.4718014,98,6,22,,ngo,,8:00-18:00,GN
+321,8.5425639,-9.4725645,85,4,19,,,,24/7,GN
+322,8.5532781,-9.4537932,5,,2,,government,,8:30-16:30,GN
+323,8.4193789,-9.3978542,2,,2,,government,,07:00-18:00,GN
+324,7.8528906,-9.1089401,3,,,,government,,08:00-16:00,GN
+325,7.8542438,-9.2797832,2,,1,,government,,08:00-00:00,GN
+326,8.0327141,-9.3651581,8,,3,,government,,07:00-16:00,GN
+327,8.0266951,-9.3590802,7,,1,,government,,07:00-16:00,GN
+328,7.8546296,-9.3964865,5,1,1,,,,,GN
+329,7.906396,-9.3569399,6,,6,,government,,8:30-16:30,GN
+330,7.3383455,-8.966904,10,12,8,,,,8:15-17:00,LR
+331,7.3450987,-8.9589554,1,1,,,private_profit,,,LR
+332,7.3479505,-8.9551181,1,1,,,,,,LR
+333,7.3476795,-8.9564359,21,,5,,,,7:30-16:30,LR
+334,7.3475342,-8.9568843,1,1,,,private_profit,,,LR
+335,7.7287495,-9.2112387,8,6,2,,,,8:00-17:00,GN
+336,7.7166297,-9.2690377,,,,,private_profit,,08:00-16:30,GN
+337,7.6674202,-9.2595863,1,0,1,,government,,08:00-16:00,GN
+338,7.7131218,-9.2675693,6,,1,,government,,,GN
+339,7.7272913,-9.2108935,0,,,,private_profit,,,GN
+340,7.2563289,-9.0577537,1,,1,,government,,,LR
+341,7.3038545,-9.1090594,5,,3,,government,,08:00-16:30,GN
+342,7.3466364,-9.1516328,0,,1,,government,,07:00-17:00,GN
+343,7.5441936,-8.7721175,4,,1,,government,,8:00-16:00,LR
+344,7.6406776,-8.7995231,8,,1,,,,,GN
+345,7.7657885,-8.8200487,3,,7,,government,,8:00-16:00,GN
+346,7.7760342,-8.681784,,,2,,government,,6:00-20:00,GN
+347,7.7986927,-8.6976345,5,,,,government,,8:00-12:00,GN
+348,7.8351756,-8.5867824,,,1,,private_profit,,09:00-18:00,GN
+349,7.7379744,-8.7496984,20,2,17,,,,7:00-16:30,GN
+350,7.8364563,-8.5858905,4,,3,,government,,07:00-18:00,GN
+351,7.8144877,-8.6460337,1,,1,,Ancien école,,08:00-18:00,GN
+352,7.6783405,-8.3145038,9,,1,,,,24/7,LR
+353,7.6807745,-8.3143591,1,,,,,,,LR
